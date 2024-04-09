@@ -1,3 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+    <meta charset="UTF-8">
+    
+    <title>Document</title>
+    
+    <link rel="stylesheet" href="sytle.css">
+</head>
+<body>
+    
+</body>
+</html>
+
+
 <?php
 
     require_once "Aluno.php";
